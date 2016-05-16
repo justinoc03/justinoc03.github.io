@@ -1,0 +1,92 @@
+p + ul {
+    margin-top: -15px;
+}
+
+#my_info {
+    margin-top: -22px;
+    list-style-type: ;
+    padding-left: 22px;
+}
+
+h1{
+ font-size: 50px; 
+ margin-bottom: 22px;
+}
+
+header {
+    font-family: sans-serif;
+    width: 465px;
+    height: 180px;
+    background-color: white;
+    z-index: 1;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px gray solid;
+    border-radius: 10px;
+    margin-bottom: -16px;
+ 
+}
+
+article{
+    font-family: sans-serif;
+    border-left: 2px gray solid;
+    border-right: 2px gray solid;
+    max-width: 1200px;
+    margin: auto;
+    padding: 4px;	
+}
+
+
+.location {
+    font-size: 14px;
+    color: #6C6F77;
+}
+
+.section_header {
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: gray;
+    height: 23px;
+    color: white;
+    padding: 1px;
+}
+
+.highlight {
+	font-weight: 600;
+	color: gray;
+}
+
+#professional {
+    width: 100%;
+    position: relative;
+    clear: both;
+}
+
+#education {
+    width: 100%;
+    position: relative;
+       
+}
+
+#skills {
+    width: 100%;
+    position: relative;
+    
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+p {
+ color: black;   
+}
+
+#footer {
+    clear: both;
+}
